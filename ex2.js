@@ -1,0 +1,10 @@
+const a = 4;
+const b = 2;
+let somme = a+b;
+let defference = a-b;
+let produit = a*b;
+let quotient = a/b;
+console.log(somme);
+console.log(defference);
+console.log(produit);
+console.log(quotient);
